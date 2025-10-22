@@ -1,0 +1,1 @@
+I practiced building and merging branches, creating issues, creating pull requests, and conflict resolutions. I hit a push rejection and ficed it with git pull --rebase command. I also created and resolved conflicts with PR'S. Lastly I practice writin clear and simple commit messages to make it easier to audit in the future.
