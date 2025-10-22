@@ -1,1 +1,1 @@
-zine contains time machine
+# Intro (Editor Cut)
